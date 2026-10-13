@@ -1,0 +1,20 @@
+#videos o imagenes
+*.mp4
+*.svo
+*.avi.jpg
+*.png
+
+*.engine
+*.weights
+# Archivos de sistema y paquetes
+*.deb
+*.pyc
+venv/
+env/
+__pycache__/
+.DS_Store
+
+# Carpetas de configuración del editor
+.vscode/
+.env
+.robolimpiador/
